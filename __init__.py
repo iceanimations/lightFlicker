@@ -1,3 +1,3 @@
-import flicker
+from src import flicker
 reload(flicker)
-from flicker import *
+from src.flicker import *
